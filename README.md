@@ -24,8 +24,23 @@ To validate installation on mossco-ai GCP VM:
 
 GCP VM: [mossco-ai](https://console.cloud.google.com/compute/instancesDetail/zones/us-central1-c/instances/mossco-ai?project=data-oasis-436904-a7)
 
+URL:
+
 ```
 http://34.44.71.242:3000/   
+```
+
+<<<<<<< HEAD
+To validate packages funding:
+
+```
+npm fund
+```
+
+To address all issues:
+
+```
+npm audit fix --force
 ```
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/abalderas10/v35_GrowthBDM1008)
