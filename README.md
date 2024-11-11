@@ -30,7 +30,6 @@ URL:
 http://34.44.71.242:3000/   
 ```
 
-<<<<<<< HEAD
 To validate packages funding:
 
 ```
