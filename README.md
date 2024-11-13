@@ -30,6 +30,18 @@ URL:
 http://34.44.71.242:3000/   
 ```
 
+To create an optimized PROD build:
+
+```
+npm run build
+``` 
+
+To execute the app in PROD env:
+
+```
+npm run start
+```
+
 To validate packages funding:
 
 ```
