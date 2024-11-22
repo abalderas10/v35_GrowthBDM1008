@@ -8,7 +8,7 @@ Note: This command creates the node_modules/ folder on root folder.
 npm install
 ```
 
-To run the dev server:
+To run the server on DEV env:
 
 ```
 npm run dev
