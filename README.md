@@ -2,7 +2,7 @@
 
 Main repository for growthbdm.com web page.
 
-To install NPM packages:
+To install all NPM packages:
 
 Note: This command creates the node_modules/ folder on root folder.
 
